@@ -13,3 +13,5 @@ Click the "People" button at the top of the page. This will retrieve data from t
 To display a table of Star Wars films:
 
 Click the "Films" button at the top of the page. This will retrieve data from the Star Wars API and display a table of film titles, directors, producers, and release dates.
+
+![Screenshot 2023-04-16 144558](https://user-images.githubusercontent.com/63597726/232335049-7ad00f2a-8d12-46e9-baec-7686b075906d.jpg)
