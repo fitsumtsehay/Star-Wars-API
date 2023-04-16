@@ -1,5 +1,5 @@
 # Star-Wars-API
-###### This JavaScript code retrieves data from the Star Wars API and displays it in a table on a webpage. The table can display either a list of people or a list of films from the Star Wars universe, depending on which button is clicked.
+##### This JavaScript code retrieves data from the Star Wars API and displays it in a table on a webpage. The table can display either a list of people or a list of films from the Star Wars universe, depending on which button is clicked.
 
 ### Installation
 Download the script file (data.js) and the HTML file (index.html) as well as the CSS file (style.css) and save them in the same directory.
