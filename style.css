@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-14_856985d9.jpeg");
+  background-size: cover;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  background-image: url("https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-26_9578e6d4.jpeg");
+  
+}
+
+h1.page-title {
+  text-align: center;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  text-shadow: 2px 2px 0px #fff, 4px 4px 0px rgba(0,0,0,0.1);
+  
+}
+
+nav {
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: #fff;
+  color: #555;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+
+}
+
+thead th {
+  background-color: #555;
+  color: #fff;
+  text-align: left;
+  padding: 10px;
+  
+}
+
+tbody td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 10px;
+}
+
+#people-caption {
+    display: none;
+  }
+
+  #film-table {
+    display: none;
+  }
+  
